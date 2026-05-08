@@ -33,6 +33,10 @@ Bu çalışmada veri ön işleme, özellik mühendisliği, sınıf dengesizliği
 
 Model performansı accuracy, precision, recall, F1-score, ROC-AUC, PR-AUC ve balanced accuracy metrikleriyle değerlendirilmiştir.
 
+## Proje Durumu
+
+Tamamlandı / Geliştirilmeye açık.
+
 ## Not
 
 Bu proje eğitim ve portfolyo amacıyla hazırlanmıştır. Veri dosyası repoya dahil edilmemiştir.
